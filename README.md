@@ -3,7 +3,7 @@ Video Recording: https://drive.google.com/file/d/1UXdHGc7q_uXHqP7yu5EFQoT97TZ1bI
 # Unity 3D First-Person Shooter Game Documentation
 
 ## Introduction
-This document details our Unity 3D First-Person Shooter (FPS) game, designed for our class project. The game transitions from mountainous terrain to urban settings and finally to a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
+This document details our Unity 3D First-Person Shooter (FPS) game, designed for our class project. The game surrounds from mountainous terrain to urban settings which remsemble a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
 
 ## Game Overview
 Players start their journey in a mountainous area, proceed through urban environments, and infiltrate a secured facility. Gameplay involves navigating these diverse settings, managing combat encounters with intelligent enemies, and utilizing various weapons and tactical maneuvers.
@@ -13,7 +13,7 @@ Players start their journey in a mountainous area, proceed through urban environ
 - **Weapons**: Players are equipped with:
   - **Pistol**: A precision firearm with slow firing.
   - **Machine Gun**: A rapid-fire long-range weapon.
-- **Reloading**: Automatic when ammo runs out.
+- **Reloading**: The player can load the ammo by pressing "R" from the keyboard when ammo runs out.
 - **Objectives**: Players must find keys to unlock new areas and complete objectives.
 
 ## Game Intstructions Images
@@ -26,7 +26,7 @@ Enemies patrol predetermined paths but will chase the player upon detection. If 
 
 ## User Interface (HUD)
 The HUD is designed for clarity and constant feedback:
-- **Health and Shield Status**: Prominently displayed at all times.
+- **Health and Shield Status**: Prominently displayed at all times. (health = red bar, shield = blue bar) 
 - **Ammunition Levels and Weapon Type**: Constantly visible on-screen.
 - **Objective Indicator**: Directs players to their next target.
 
@@ -43,16 +43,16 @@ Key game features:
 - **Strategic Elements**: Includes key collections and terminal interactions for area unlocking.
 
 ## Sound and Graphics
-The game features comprehensive sound design to enhance immersion, including effects for shooting, jumping, and enemy alerts. Visuals are crafted using Unity's rendering techniques to support gameplay mechanics and provide a realistic environment.
+The game features comprehensive sound design to enhance immersion, including effects for shooting, jumping, and enemy alerts. Visuals are crafted using Unity's rendering methods to support gameplay mechanics and provide a realistic environment.
 
 ## Endgame and Replayability
 Upon depleting all health, players see a 'Game Over' screen with options to restart the level, encouraging gameplay refinement and strategy development.
 
 ## Conclusion
-Developing this Unity 3D FPS game has been a comprehensive educational experience, emphasizing the practical application of game design theories. It enhanced our technical skills, problem-solving capabilities, and creative thinking.
+Developing this Unity 3D FPS game has been a comprehensive educational experience, emphasizing the practical application of game design theories. It enhanced my technical skills, problem-solving capabilities, and creative thinking.
 
 ## Key Points
-- **Dynamic Environments**: Transition from natural landscapes to structured facilities.
+- **Dynamic Environments**: Surroundings of natural landscapes and structured facilities.
 - **Advanced Combat**: Features a sophisticated health and shield management system.
 - **Interactive Gameplay**: Key collections and terminal interactions are central to progression.
 - **Technical Achievements**: Overcame AI and interaction mechanic challenges using advanced Unity features.
