@@ -24,6 +24,13 @@ This Unity 3D First-Person Shooter (FPS) game transitions from mountainous terra
 - **Reloading**: Occurs automatically when ammo depletes.
 - **Objectives**: Locate keys to unlock new areas and defeat enemies.
 
+![Alt text for the image](Objectives.jpg)
+
+## Player Controls 
+
+![Alt text for the image](Player%20Controls.jpg)
+
+
 ## Combat and Interaction
 Enemies patrol and react dynamically to player presence. Combat utilizes a dual health system:
 - **Shields**: Take initial damage.
