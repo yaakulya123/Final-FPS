@@ -1,78 +1,59 @@
 Video Recording: https://drive.google.com/file/d/1UXdHGc7q_uXHqP7yu5EFQoT97TZ1bIhS/view?usp=sharing
 
-# Unity 3D First-Person Shooter Game
+# Unity 3D First-Person Shooter Game Documentation
 
-## Overview
-This Unity 3D First-Person Shooter (FPS) game transitions from mountainous terrains to urban environments, culminating in a high-security facility. Players engage in strategic combat using a range of weapons, navigating complex environments, and overcoming intelligent enemies.
+## Introduction
+This document details our Unity 3D First-Person Shooter (FPS) game, designed for our class project. The game transitions from mountainous terrain to urban settings and finally to a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
 
-## Table of Contents
-- [Gameplay Mechanics](#gameplay-mechanics)
-- [Combat and Interaction](#combat-and-interaction)
-- [User Interface](#user-interface)
-- [Technical Challenges](#technical-challenges)
-- [Game Components and Features](#game-components-and-features)
-- [Sound and Graphics](#sound-and-graphics)
-- [Endgame and Replayability](#endgame-and-replayability)
-- [Conclusion](#conclusion)
-- [Key Points](#key-points)
+## Game Overview
+Players start their journey in a mountainous area, proceed through urban environments, and infiltrate a secured facility. Gameplay involves navigating these diverse settings, managing combat encounters with intelligent enemies, and utilizing various weapons and tactical maneuvers.
 
 ## Gameplay Mechanics
 - **Movement**: Players navigate using WASD keys.
-- **Weapons**: The game features two primary weapons:
-  - **Pistol**: High precision, slow firing.
-  - **Machine Gun**: Long range, rapid firing.
-- **Reloading**: Occurs automatically when ammo depletes.
-- **Objectives**: Locate keys to unlock new areas and defeat enemies.
+- **Weapons**: Players are equipped with:
+  - **Pistol**: A precision firearm with slow firing.
+  - **Machine Gun**: A rapid-fire long-range weapon.
+- **Reloading**: Automatic when ammo runs out.
+- **Objectives**: Players must find keys to unlock new areas and complete objectives.
+
+## Game Intstructions Images
+![Alt text for the image](Player%20Controls.jpg)
 
 ![Alt text for the image](Objectives.jpg)
 
-## Player Controls 
-
-![Alt text for the image](Player%20Controls.jpg)
-
-
 ## Combat and Interaction
-Enemies patrol and react dynamically to player presence. Combat utilizes a dual health system:
-- **Shields**: Take initial damage.
-- **Health**: Takes damage once shields are depleted.
+Enemies patrol predetermined paths but will chase the player upon detection. If players evade detection, enemies search the vicinity before resuming their patrol. The game integrates a health and shield system where the shield absorbs most damage until depleted, then health points are directly affected.
 
-## User Interface
-The HUD provides constant game status updates:
-- **Health and Shield Bars**: Show remaining health and shield levels.
-- **Ammo and Weapon Display**: Indicates current weapon and ammunition status.
-- **Objective Indicator**: Guides players towards their next goal.
+## User Interface (HUD)
+The HUD is designed for clarity and constant feedback:
+- **Health and Shield Status**: Prominently displayed at all times.
+- **Ammunition Levels and Weapon Type**: Constantly visible on-screen.
+- **Objective Indicator**: Directs players to their next target.
 
 ## Technical Challenges
-Challenges such as AI behavior and interactive game elements were addressed using Unity's advanced features, enhancing realism and gameplay complexity.
+Developing the game's AI presented challenges, especially in enemy behavior and interaction dynamics. Solutions included:
+- **AI Behavior**: Refined using Unity's NavMesh for realistic patrols.
+- **Dynamic Waypoint System**: Updates dynamically based on player actions.
+- **Interactive Elements**: Implemented Unity’s raycasting for key interactions and door unlocking.
 
 ## Game Components and Features
-- **Player Character**: Equipped for combat and interaction.
-- **Enemies**: Feature intelligent AI for realistic engagements.
-- **Game Mechanics**: Include strategic key collection and terminal interactions.
+Key game features:
+- **Player Mechanics**: Detailed shooting and interaction capabilities.
+- **Enemy AI**: Reacts intelligently to player actions, enhancing combat.
+- **Strategic Elements**: Includes key collections and terminal interactions for area unlocking.
 
 ## Sound and Graphics
-The game integrates detailed soundtracks and realistic graphics to enhance player immersion and interaction realism.
+The game features comprehensive sound design to enhance immersion, including effects for shooting, jumping, and enemy alerts. Visuals are crafted using Unity's rendering techniques to support gameplay mechanics and provide a realistic environment.
 
 ## Endgame and Replayability
-A 'Game Over' screen appears upon defeat, with options to restart the level, promoting gameplay continuity and strategy refinement.
+Upon depleting all health, players see a 'Game Over' screen with options to restart the level, encouraging gameplay refinement and strategy development.
 
 ## Conclusion
-The project underscores the practical application of game design and development skills, emphasizing problem-solving and creative thinking in a real-world context.
+Developing this Unity 3D FPS game has been a comprehensive educational experience, emphasizing the practical application of game design theories. It enhanced our technical skills, problem-solving capabilities, and creative thinking.
 
 ## Key Points
-- **Dynamic Environments**: The game evolves from natural landscapes to structured facilities.
-- **Advanced Combat System**: Features a detailed health and shield management system.
-- **Interactive Gameplay Elements**: Key collections and terminal interactions drive game progression.
-- **AI and Technical Mastery**: Demonstrates sophisticated enemy AI and interactive dynamics.
-- **Educational Impact**: Offers significant insights into the application of game development skills.
-
----
-
-### Video Demo
-[Link to video demo]
-
-### Code Repository
-[GitHub repository link]
-
-### Instructor Feedback
-_(To be filled by the instructor)_
+- **Dynamic Environments**: Transition from natural landscapes to structured facilities.
+- **Advanced Combat**: Features a sophisticated health and shield management system.
+- **Interactive Gameplay**: Key collections and terminal interactions are central to progression.
+- **Technical Achievements**: Overcame AI and interaction mechanic challenges using advanced Unity features.
+- **Educational Value**: Provided hands-on experience in game development, boosting technical and creative skills.
