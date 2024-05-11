@@ -3,7 +3,7 @@ Video Recording: https://drive.google.com/file/d/1UXdHGc7q_uXHqP7yu5EFQoT97TZ1bI
 # Unity 3D First-Person Shooter Game Documentation
 
 ## Introduction
-This document details our Unity 3D First-Person Shooter (FPS) game, designed for our class project. The game surrounds from mountainous terrain to urban settings which remsemble a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
+This document details my Unity 3D First-Person Shooter (FPS) game, designed for our class project. The game surrounds from mountainous terrain to urban settings which remsemble a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
 
 ## Game Overview
 Players start their journey in a mountainous area, proceed through urban environments, and infiltrate a secured facility. Gameplay involves navigating these diverse settings, managing combat encounters with intelligent enemies, and utilizing various weapons and tactical maneuvers.
@@ -51,9 +51,16 @@ Upon depleting all health, players see a 'Game Over' screen with options to rest
 ## Conclusion
 Developing this Unity 3D FPS game has been a comprehensive educational experience, emphasizing the practical application of game design theories. It enhanced my technical skills, problem-solving capabilities, and creative thinking.
 
-## Key Points
-- **Dynamic Environments**: Surroundings of natural landscapes and structured facilities.
-- **Advanced Combat**: Features a sophisticated health and shield management system.
-- **Interactive Gameplay**: Key collections and terminal interactions are central to progression.
-- **Technical Achievements**: Overcame AI and interaction mechanic challenges using advanced Unity features.
-- **Educational Value**: Provided hands-on experience in game development, boosting technical and creative skills.
+## Key Features of the game 
+- The game begins in a mountainous area, progresses through urban environments, and concludes in a highly secured facility, satisfying the scenario setup.
+- The game features a pistol for slow, precise shots and a machine gun for long-range, rapid fire, fulfilling the weapons requirement.
+- Players have both a life bar and a shield bar. The shield takes most of the damage until depleted, after which health takes full damage, in line with the specifications.
+- The HUD consistently displays life, shield status, weapon type, and ammunition, ensuring players are always aware of their stats.
+- Doors in the game cannot be opened without the appropriate key, aligning with the game mechanics specified.
+- Enemies patrol set paths and will engage the player upon detection. If the player evades detection after being noticed, enemies search the area, which satisfies the enemy behavior criteria.
+- The game includes comprehensive sound effects for movements, item pickups, combat, and interactions like opening doors, meeting the sound-tracking requirement.
+- A game over screen is presented when the player loses all health, with the option to restart the level, fulfilling the end-game condition.
+
+Bonus 
+
+- 'Life', 'shield', and 'ammo' items are scattered across the stage for players when defeated the enemies. 
