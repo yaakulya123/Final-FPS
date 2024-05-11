@@ -64,3 +64,11 @@ Developing this Unity 3D FPS game has been a comprehensive educational experienc
 Bonus 
 
 - 'Life', 'shield', and 'ammo' items are scattered across the stage for players when defeated the enemies. 
+
+## Further Improvments: 
+
+1) Advanced AI Behaviors: Implement more complex enemy AI behaviors, such as the ability for enemies to take cover or call for reinforcements when outnumbered. This would make combat scenarios more challenging and realistic, requiring players to use more strategic thinking and tactics. Additionally, adding patrol variations and conditional responses based on player actions (like setting off alarms) can increase the depth of gameplay.
+
+2) Expanded Arsenal and Customization: Introduce a broader range of weapons and customizable options. This could include melee weapons, grenades, and special gadgets like drones for scouting. Each weapon could have various upgrades and customizations, such as scopes, extended magazines, or different ammunition types (e.g., incendiary or explosive bullets). Allowing players to tailor their loadouts to their play style would add an extra layer of strategy and personalization to the game.
+
+3) Interactive Environments: Enhance the game's environments to be more interactive and destructible. Players could use the environment strategically, such as shooting down chandeliers to disrupt enemy forces or breaking through walls to create new pathways. Adding environmental hazards, such as explosive barrels or unstable structures, can also provide more dynamic combat options.
