@@ -28,7 +28,7 @@ Enemies patrol predetermined paths but will chase the player upon detection. If 
 The HUD is designed for clarity and constant feedback:
 - **Health and Shield Status**: Prominently displayed at all times. (health = red bar, shield = blue bar) 
 - **Ammunition Levels and Weapon Type**: Constantly visible on-screen.
-- **Objective Indicator**: Directs players to their next target.
+- **Objective Indicator**: An Arrow is implemented to direct players to their next target.
 
 ## Technical Challenges
 Developing the game's AI presented challenges, especially in enemy behavior and interaction dynamics. Solutions included:
