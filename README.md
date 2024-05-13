@@ -36,10 +36,9 @@ Developing the game's AI presented challenges, especially in enemy behavior and 
 - **Dynamic Waypoint System**: Updates dynamically based on player actions.
 - **Interactive Elements**: Implemented Unity’s raycasting for key interactions and door unlocking.
 
-## Game Components and Features
+## General Game Components and Features
 Key game features:
 - **Player Mechanics**: Detailed shooting and interaction capabilities.
-- **Enemy AI**: Reacts intelligently to player actions, enhancing combat.
 - **Strategic Elements**: Includes key collections and terminal interactions for area unlocking.
 
 ## Sound and Graphics
