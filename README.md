@@ -3,7 +3,7 @@ Video Recording: https://drive.google.com/file/d/1UXdHGc7q_uXHqP7yu5EFQoT97TZ1bI
 # Unity 3D First-Person Shooter Game Documentation
 
 ## Introduction
-This document details my Unity 3D First-Person Shooter (FPS) game, designed for our class project. The game surrounds from mountainous terrain to urban settings which remsemble a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
+This document details my Unity 3D First-Person Shooter (FPS) game, designed for our team project. The game surrounds from mountainous terrain to urban settings which remsemble a highly secured facility, challenging players with dynamic combat mechanics and strategic navigation.
 
 ## Game Overview
 Players start their journey in a mountainous area, proceed through urban environments, and infiltrate a secured facility. Gameplay involves navigating these diverse settings, managing combat encounters with intelligent enemies, and utilizing various weapons and tactical maneuvers.
